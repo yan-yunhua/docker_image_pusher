@@ -1,1 +1,1 @@
-docker.actima.top/r/owasp/modsecurity-crs
+owasp/modsecurity-crs
